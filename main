@@ -1,5 +1,6 @@
 '''
 This example derives from this tutorial: https://www.datacamp.com/tutorial/markov-chains-python-tutorial
+This code is adapted to a occupancy prediction problem.
 '''
 
 
